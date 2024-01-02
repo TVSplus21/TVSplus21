@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tony Siwela</h1>
-<h3 align="center">Hello there! 👋 I'm a motivated and detail-oriented full-stack junior developer with a strong foundation in front-end and back-end technologies. My expertise lies in crafting intuitive and dynamic web applications using the MERN and PERN stacks, alongside React Native for versatile mobile development. Technical Proficiency: 🌟 Front-end: Proficient in HTML, CSS, JavaScript, and ReactJS for building responsive and engaging user interfaces. 🌐 Back-end: Experienced with NodeJS, SQL, and Express.js, enabling robust server-side development and database management. 📱 Mobile Development: Skilled in React Native, ensuring seamless cross-platform app experiences. 🛠️ Tools: Proficient in version control using Git and GitHub, and adept with tools like Visual Studio Code, Postman, and Figma for efficient development and collaboration. 📊 Databases: Knowledgeable in working with both PostgreSQL and MongoDB, ensuring data persistence and efficient retrieval.</h3>
+<h3 align="center">Hello there! 👋 I'm a motivated and detail-oriented full-stack junior developer with a strong foundation in front-end and back-end technologies. My expertise lies in crafting intuitive and dynamic web applications using the MERN and PERN stacks, alongside React Native for versatile mobile development.</h3> 
+<p>Technical Proficiency: 🌟 Front-end: Proficient in HTML, CSS, JavaScript, and ReactJS for building responsive and engaging user interfaces.</p> 
+<p>🌐 Back-end: Experienced with NodeJS, SQL, and Express.js, enabling robust server-side development and database management.</p> 
+<p>📱 Mobile Development: Skilled in React Native, ensuring seamless cross-platform app experiences.</p> 
+<p>🛠️ Tools: Proficient in version control using Git and GitHub, and adept with tools like Visual Studio Code, Postman, and Figma for efficient development and collaboration.</p> 
+<p>📊 Databases: Knowledgeable in working with both PostgreSQL and MongoDB, ensuring data persistence and efficient retrieval.</p>
 
 - 🌱 I’m currently learning **C# Programming Language**
 
